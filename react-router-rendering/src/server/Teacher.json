@@ -1,0 +1,39 @@
+{
+    
+    "Teacher" : [
+        {
+            "id": 100,
+            "tname":"teacher1"
+        },
+        {
+            "id": 101,
+            "tname":"teacher2"
+        },
+        {
+            "id": 102,
+            "tname":"Teacher3"
+        }
+
+    ]
+,
+
+    
+    "Student" : [
+        {
+            "id": 1,
+            "name":"dinesh"
+        },
+        {
+            "id": 2,
+            "name":"Krish"
+        },
+        {
+            "id": 3,
+            "name":"Vicky"
+        }
+
+    ]
+
+
+} 
+

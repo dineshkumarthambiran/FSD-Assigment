@@ -1,0 +1,19 @@
+{
+  "Comments": [
+    {
+      "id": 1,
+      "user": "Dinesh",
+      "Comment": "The post looks good"
+    },
+    {
+      "id": "2",
+      "user": "Vignesh",
+      "Comment": "Bad"
+    },
+    {
+      "id": "3",
+      "user": "user3",
+      "Comment": "Awesome"
+    }
+  ]
+}

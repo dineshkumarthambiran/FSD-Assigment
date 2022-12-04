@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Dinesh",
+      "location": "Goa"
+    },
+    {
+      "id": "2",
+      "name": "Raja",
+      "location": "madurai"
+    },
+    {
+      "id": "3",
+      "name": "Vignesh",
+      "location": "Trichy"
+    },
+    {
+      "id": "4",
+      "name": "Rakesh",
+      "location": "Mumbai"
+    },
+    {
+      "id": "1234",
+      "name": "krish",
+      "location": "bangalore"
+    },
+    {
+      "id": "235",
+      "name": "Manoj",
+      "location": "bangalore"
+    }
+  ]
+}
